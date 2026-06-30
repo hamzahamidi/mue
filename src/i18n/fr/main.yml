@@ -24,7 +24,7 @@ widgets:
     exclude: Ne pas réafficher
     exclude_confirm: "Êtes-vous sûr de ne pas vouloir revoir cette image ?\nRemarque :
       si vous n'aimez pas les \"{catégorie}\" images, vous pouvez décocher cette catégorie
-      dans les paramètre d'arrière plan."
+      dans les paramètres d'arrière plan."
     confirm: Confirmer
   search: Rechercher
   quicklinks:
