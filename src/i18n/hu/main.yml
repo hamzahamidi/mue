@@ -1,1 +1,103 @@
-{}
+tabname: Új lap
+widgets:
+  greeting:
+    morning: Jó reggelt
+    afternoon: Jó napot
+    evening: Jó estét
+    christmas: Boldog karácsonyt
+    newyear: Boldog új évet
+    halloween: Boldog Halloweent
+    birthday: Boldog születésnapot
+  background:
+    credit: A képet készítette
+    unsplash: az Unsplashen
+    information: Információ
+    download: Letöltés
+    downloads: Letöltések
+    views: Nézetek
+    likes: Kedvelések
+    location: Helymeghatározás
+    camera: Kamera
+    resolution: Felbontás
+    source: Forrás
+    category: Kategória
+    exclude: Ne mutasd többet
+    exclude_confirm: |-
+      Biztos, hogy többet nem szeretnéd látni ezt a képet?
+      Megjegyzés: Ha nem tetszik a(z) "{category} képei, kikapcsolhatod a kategóriát a háttérforrás beállításaiban.
+    confirm: Megerősítés
+  search: Keresés
+  quicklinks:
+    new: Új hivatkozás
+    edit: Hivatkozás módosítása
+    name: Név
+    url: URL
+    icon: Ikon (választható)
+    add: Hozzáad
+    name_error: Kötelező nevet megadni
+    url_error: Kötelező hivatkozást megadni
+  date:
+    week: Hét
+  weather:
+    not_found: Nem található
+    meters: '{amount} méter'
+    extra_information: Több információ
+    feels_like: Hőérzet
+  quote:
+    link_tooltip: Megnyitás a Wikipedián
+    share: Megosztás
+    copy: Másolás
+    favourite: Kedvenc
+    unfavourite: Nem kedvenc
+  navbar:
+    tooltips:
+      refresh: Újratöltés
+    notes:
+      title: Jegyzetek
+      placeholder: Írd ide
+    todo:
+      title: Feladatok
+      pin: Kitűzés
+      add: Hozzáadás
+      no_todos: Nincs teendő
+    apps:
+      title: Alkalmazások
+      no_apps: Nem található hivatkozás
+modals:
+  main:
+    title: Opciók
+    loading: Töltés...
+    file_upload_error: A fájl nagyobb 2MB-nál
+    navbar:
+      settings: Beállítások
+      addons: Könyvtár
+      marketplace: Felfedezés
+    error_boundary:
+      title: Hiba
+      message: A Mue ezen összetevőjének betöltése sikertelen
+      report_error: Hibajelentés küldése
+      sent: Elküldve!
+      refresh: Újratöltés
+  update:
+    title: Frissítés
+    offline:
+      title: Offline
+      description: Offline módban a frissítési naplók nem érhetők el
+    error:
+      title: Hiba
+      description: A szerverhez csatlakozás sikertelen
+  share:
+    copy_link: Hivatkozás másolása
+    email: Email
+toasts:
+  quote: Idézet másolva
+  notes: Jegyzet másolva
+  reset: A visszaállítás sikeres volt
+  installed: Sikeres telepítés
+  uninstalled: Sikeresen eltávolítva
+  updated: Sikeresen frissítve
+  error: Valami hiba történt
+  imported: Sikeresen importálva
+  no_storage: Nincs elég tárhely
+  link_copied: Hivatkozás másolva
+  stats_reset: Statisztikák visszaállítása
