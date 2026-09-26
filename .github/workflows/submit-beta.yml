@@ -48,7 +48,7 @@ jobs:
         uses: PlasmoHQ/bpp@v3
         with:
           keys: ${{ secrets.SUBMIT_KEYS_BETA }}
-          chrome-zip: dist/chrome-${{ steps.tag.outputs.version }}.zip
+          chrome-file: dist/chrome-${{ steps.tag.outputs.version }}.zip
 
       - name: Summary
         if: always()
